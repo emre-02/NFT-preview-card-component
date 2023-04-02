@@ -30,7 +30,8 @@ Users should be able to:
 ![](images/nft.png)
 
 
-### Links
 
-- [Solution URL](https://github.com/emre-02/NFT-preview-card-component)
-- [Live Site URL](https://emre-02.github.io/NFT-preview-card-component/)
+## Author
+
+- Frontend Mentor - [@Voldemort-07](https://www.frontendmentor.io/profile/Voldemort-07)
+- Linkedin - (https://www.linkedin.com/in/yunus-emre-%C3%B6zt%C3%BCrk-83a794250/)
