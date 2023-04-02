@@ -23,7 +23,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 
 - [Solution URL](https://github.com/emre-02/NFT-preview-card-component)
-- [Live Site URL](https://emre-02.github.io/Product-preview-card-component/)
+- [Live Site URL](https://emre-02.github.io/NFT-preview-card-component/)
 
 ## My process
 
