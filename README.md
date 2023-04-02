@@ -17,7 +17,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### The challenge
 
-Users should be able to:
+
 
 
 Users should be able to:
@@ -27,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/nft.png)
+![](images/nft.png)
 
 
 ### Links
 
-- [Solution URL](https://github.com/emre-02/-Results-summary-component)
-- [Live Site URL](https://emre-02.github.io/-Results-summary-component/)
+- [Solution URL](https://github.com/emre-02/NFT-preview-card-component)
+- [Live Site URL](https://emre-02.github.io/NFT-preview-card-component/)
